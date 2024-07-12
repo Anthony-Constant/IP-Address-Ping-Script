@@ -47,12 +47,10 @@ The script defines a list of IP addresses to ping. It then uses a function to op
 ```powershell
 # List of IP addresses to ping
 $ipAddresses = @(
-    "10.224.242.7",
-    "10.244.242.241",
-    "10.246.243.9",
-    "10.246.243.243",
-    "10.243.242.1",
-    "10.243.242.235"		
+    "10.10.10.10",
+    "10.10.20.10",
+    "10.10.30.10",
+    "10.10.20.100"       
 )
 
 # Function to open a new command prompt window and ping an IP address
