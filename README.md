@@ -42,6 +42,9 @@ The script defines a list of IP addresses to ping. It then uses a function to op
    - Each IP address in the list will be pinged in a new command prompt window.
    - You can monitor the connectivity to each IP address in real-time.
 
+## Demo
+https://youtu.be/n76kW8dyWeM
+
 ## Script
 
 ```powershell
